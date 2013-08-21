@@ -1,0 +1,64 @@
+#page-wrapper {
+	
+	padding: 0 5% !important;
+}
+
+#masthead {
+	width: 100%;
+}
+
+#main-container {
+	width:65% !important;
+	display:table-cell;
+	vertical-align: top;
+		overflow-x: hidden;
+	overflow-y: auto;
+	
+}
+
+.teaser > .gc{
+	display:block;
+	width:100% !important;
+	
+}
+
+.teaser > .gc:first-child {
+
+clear: both;	
+}
+.bodytext.teaser {
+	text-align: left;
+	line-height: 1.5em;
+}
+.portfolio-image.container {
+	width:50% !important;
+	margin-bottom: 1em;
+	margin-left:2em;
+}
+.portfolio-image {
+	width:100% !important;
+	float:right;
+}
+
+#main-foot {
+	float:none !important;
+	display:table-cell !important;
+	width:40% !important;
+	border-top:none !important;
+	border-left:1px solid #ddd;
+	margin:0 !important;
+	padding:0 !important;
+}
+ul.vcard {
+	float:left !important;
+padding: 2em !important; 
+}
+ul.vcard >li {
+width:100% !important;
+float:left;
+clear:both;
+font-size:3.6em;
+font-family: 'Gotham Light',Helvetica Neue,Helvetica,Arial,sans-serif;
+	line-height:1.538em;
+}
+

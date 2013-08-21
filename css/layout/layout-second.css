@@ -1,0 +1,18 @@
+/* @override
+http://localhost/portfolio-v2/css/layout/layout-second.css */
+#masthead {
+	width: 100% !important;
+	height: 33.6em;
+}
+
+#main-foot {
+	width: 40%;
+	position: absolute;
+	top: -0.5em;
+	right: 0;
+	border: 0;
+}
+
+#main-container {
+	border-top: 1px solid #ddd;
+}

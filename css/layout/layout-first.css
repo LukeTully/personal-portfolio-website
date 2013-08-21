@@ -1,0 +1,36 @@
+/* @override
+http://localhost/portfolio-v2/css/layout/layout-first.css */
+/* Initial Layout Styles */
+#page-wrapper {
+	height: auto;
+	margin: 0 auto;
+	min-height: 100%;
+	min-width: 0;
+	padding: 0;
+	width: 100%;
+}
+
+#content-container {
+	padding-top: 2.6em;
+	padding-bottom: 2.6em;
+	float: left;
+}
+
+#content-container.fulltext {
+	padding-top: 0;
+}
+
+#masthead {
+	width: 100%;
+}
+
+#main-foot {
+	float: left;
+	clear: both;
+	border-top: 1px solid #ddd;
+	padding-top: 2em;
+	padding-bottom: 3.6em;
+	width: 100%;
+}
+
+/* End initial Layout Style */

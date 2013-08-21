@@ -1,0 +1,4 @@
+@import url('layout-first.css') all;
+@import url('layout-second.css') all and (min-width: 700px);
+@import url("layout-third.css") screen and (min-width: 920px);
+/*@import url("layout-fourth.css") screen and (min-width: 1200px);*/
